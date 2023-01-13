@@ -1,7 +1,3 @@
-\# Telegram-Market-News-Bot
-
-A `README` file is a document that provides information about the project, including how to set it up and use it. Here is an example of a `README` file for the Telegram echo bot script you provided:
-
 # Telegram Echo Bot
 
 This is a simple Telegram echo bot that replies with the same message that it receives.
